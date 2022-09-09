@@ -1,0 +1,12 @@
+@import url('https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css');
+
+* {
+    padding: 0;
+    box-sizing: 0;
+    margin: 0;
+}
+
+.btn {
+    background-color: #a5a8aca6 !important;
+    width: auto;
+}
